@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cleanse_clear_5232.wsgi:application
